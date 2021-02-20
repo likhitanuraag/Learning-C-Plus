@@ -1,0 +1,1 @@
+Goto HelloWorld\Debug\ and Run HelloWorld.exe
