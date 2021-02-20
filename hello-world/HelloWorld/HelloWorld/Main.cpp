@@ -1,6 +1,8 @@
 #include <iostream>
 
+void Printf(const char* printstatement);
+
 int main() {
-	std::cout << "Hello World" << std::endl;
+	Printf("Hello World");
 	std::cin.get();
 }
