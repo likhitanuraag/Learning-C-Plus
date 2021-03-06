@@ -1,9 +1,9 @@
 #include <iostream>
+#include "print.h"
 
-void Printf(const char* printstatement);
 
 int main() {
 	Printf("Hello World");
-	Printf("*");
+	Printf("**********");
 	std::cin.get();
 }
