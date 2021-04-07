@@ -149,9 +149,10 @@
   <ItemGroup>
     <ClCompile Include="bin\Controls.cpp" />
     <ClCompile Include="bin\Logic.cpp" />
-    <ClCompile Include="header\Gameloop.cpp" />
+    <ClCompile Include="bin\PlayerCharacter.cpp" />
+    <ClCompile Include="bin\Gameloop.cpp" />
     <ClCompile Include="header\SLoop.h" />
-    <ClCompile Include="header\Source.cpp" />
+    <ClCompile Include="bin\Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

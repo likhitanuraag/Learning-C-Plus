@@ -18,16 +18,19 @@
     <ClCompile Include="header\SLoop.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="header\Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="bin\Controls.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="bin\Logic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="header\Gameloop.cpp">
+    <ClCompile Include="bin\PlayerCharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin\Gameloop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
